@@ -4,13 +4,13 @@
     "connector": "memory"
   },
   "mlab": {
-    "host": "ds031627.mlab.com",
-    "port": 31627,
-    "url": "mongodb://armselig:a123456@ds031627.mlab.com:31627/cursojavascript_db",
-    "database": "cursojavascript_db",
-    "password": "a123456",
+    "host": "ds051378.mlab.com",
+    "port": 51378,
+    "url": "mongodb://oyejorge:huyjiuhKY9@ds051378.mlab.com:51378/agenda",
+    "database": "agenda",
+    "password": "huyjiuhKY9",
     "name": "mlab",
-    "user": "armselig",
+    "user": "oyejorge",
     "connector": "mongodb"
   }
 }
